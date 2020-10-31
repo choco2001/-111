@@ -1,0 +1,142 @@
+.bg{
+    background-color: #8ac6d1;
+    opacity: 0.7;
+}
+
+.head{
+    text-align: center;
+    }
+
+.cycu{
+    padding-top:30px; 
+    width: 200px;
+    height: 120px;
+    margin: 1px;
+     }
+
+.gvm6{
+    padding-top: 30px;
+    width: 200px;
+    height: 100px;
+}
+
+.wj6qu04{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 150px;
+    height: 100px;
+}
+
+.ru4gl4{
+background-color: #bbded6;
+color: black;
+font-family: 微軟正黑體;
+font-size: 5px;
+padding-left: 100px;
+padding-right: 100px;
+}
+.y4{
+    font-size: 25px;
+}
+
+.y42{
+    font-size: 25px;
+    font-family: 微軟正黑體;
+    vertical-align: middle;
+    word-spacing: 1px;
+}
+
+.u3qu04{
+   
+	 	border-radius: 20px;
+	 	border: 6px#13334c dashed ;
+	 	
+}
+.wj6qu042{
+    width: 80px;
+    height: 80px;
+}
+
+.div1  {width: 100px;
+    height: 100px;
+    position: absolute;
+    top:200px;
+    position:absolute;
+    animation-name: oxxo;
+    animation-duration:1s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+    padding-left: 100px;
+    padding-bottom: 100px;
+
+}
+.div2  {width: 100px;
+    height: 100px;
+    position: absolute;
+    top:250px;
+    position:absolute;
+    animation-name: oxxo;
+    animation-duration:1s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+    padding-left: 150px;
+    padding-top: 100px;
+
+}
+.div3{
+    width: 100px;
+        height: 100px;
+        position: absolute;
+        top:240px;
+        right: 100px;
+        position:absolute;
+        animation-name: oxxo;
+        animation-duration:1s;
+        animation-iteration-count:infinite;
+        animation-direction:alternate;
+        padding-left: 250px;
+    
+}
+.div4{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:240px;
+    right: 100px;
+    position:absolute;
+    animation-name: oxxo;
+    animation-duration:1s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+    padding-left: 1250px;
+
+}
+
+.div5{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:300px;
+    right: 100px;
+    position:absolute;
+    animation-name: oxxo;
+    animation-duration:1s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+    padding-left: 1100px;
+}
+
+
+@keyframes oxxo{
+    from{
+        left:0;
+    }
+    to{
+        left:10px;
+    }
+}
+   .e2{
+       background-color: black;
+       color: white;
+   }
